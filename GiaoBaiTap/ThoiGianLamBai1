@@ -55,5 +55,4 @@ WebUI.click(findTestObject('Object Repository/Page_Hc liu - Sch Mm/input__btn bt
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Page_Hc liu - Sch Mm/div_Giao bi tp thnh cng'))
-
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Hc liu - Sch Mm/div_Giao bi tp thnh cng'), 3)
