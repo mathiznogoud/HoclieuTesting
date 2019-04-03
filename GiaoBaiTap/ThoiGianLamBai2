@@ -18,7 +18,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://hoclieu.sachmem.vn/folder/0')
 
-WebUI.click(findTestObject('Object Repository/Page_Hc liu - Sch Mm/a_ng nhp'))
+WebUI.click(findTestObject('Object Repository/Page_Hc liu - Sch Mm/a_ng nhp_1'))
 
 WebUI.setText(findTestObject('Page_ng nhp  Sch Mm/input_a ch email_useremail'), 'hwngvux98@gmail.com')
 
@@ -36,18 +36,16 @@ WebUI.click(findTestObject('Object Repository/Page_Hc liu - Sch Mm/span_Giao bi 
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Page_Hc liu - Sch Mm/span_Chn lp hc_ng-arrow-wrapper'))
-
-WebUI.delay(2)
-
-WebUI.setText(findTestObject('Page_Hc liu - Sch Mm/input'), 'alo')
+WebUI.setText(findTestObject('Object Repository/Page_Hc liu - Sch Mm/input'), 'alo')
 
 WebUI.delay(1)
 
-WebUI.sendKeys(findTestObject('Page_Hc liu - Sch Mm/input'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Page_Hc liu - Sch Mm/input'), Keys.chord(Keys.ENTER))
+
+WebUI.delay(1)
 
 WebUI.setText(findTestObject('Object Repository/Page_Hc liu - Sch Mm/input_Thi gian lm bi (pht)_form-control ng-untouched ng-valid ng-dirty'), 
-    '999')
+    '9996')
 
 WebUI.delay(1)
 
@@ -55,5 +53,5 @@ WebUI.click(findTestObject('Object Repository/Page_Hc liu - Sch Mm/input__btn bt
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/Page_Hc liu - Sch Mm/div_Giao bi tp thnh cng'))
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Hc liu - Sch Mm/div_Thi gian lm bi qu ln'), 3)
 
