@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DeleteClass_Confirm</name>
+   <tag></tag>
+   <elementGuidId>90154fd4-906c-40e5-bdf4-5d91910a7ae4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//button[@type='button'])[13]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[13]</value>
+   </webElementProperties>
+</WebElementEntity>

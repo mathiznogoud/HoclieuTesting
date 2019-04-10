@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DeleteClass_Cancel</name>
+   <tag></tag>
+   <elementGuidId>54cc01a3-c73c-4f67-a190-cfe78e1550f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//button[@type='button'])[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[12]</value>
+   </webElementProperties>
+</WebElementEntity>

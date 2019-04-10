@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DeleteClass_DropDown</name>
+   <tag></tag>
+   <elementGuidId>51df5990-2358-4527-96fd-7aaaebe0ce6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//a[@id='optionDropdown'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//a[@id='optionDropdown'])[5]</value>
+   </webElementProperties>
+</WebElementEntity>

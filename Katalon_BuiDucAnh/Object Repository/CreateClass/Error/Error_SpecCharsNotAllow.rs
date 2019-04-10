@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Error_SpecCharsNotAllow</name>
+   <tag></tag>
+   <elementGuidId>45813c1b-16b0-4726-8fc4-01479ef51238</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='createClassModal']/div/div/form/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='createClassModal']/div/div/form/div/div/div</value>
+   </webElementProperties>
+</WebElementEntity>
