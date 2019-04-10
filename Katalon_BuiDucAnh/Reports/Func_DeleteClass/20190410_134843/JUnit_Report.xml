@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Func_DeleteClass" time="87" tests="2" failures="0" errors="0">
+   <testsuite name="Func_DeleteClass" tests="2" failures="0" errors="0" time="87" timestamp="2019-04-10 13:49:02" hostname="admin - DESKTOP-S4I8ESH" id="Test Suites/Func_DeleteClass">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\admin\\Katalon Studio\\Katalon_BuiDucAnh\\Reports\\Func_DeleteClass\\20190410_134843"/>
+         <property name="logFiles" value="C:\\Users\\admin\\Katalon Studio\\Katalon_BuiDucAnh\\Reports\\Func_DeleteClass\\20190410_134843\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="admin - DESKTOP-S4I8ESH"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.0.1"/>
+         <property name="browser" value="Chrome 73.0.3683.103"/>
+         <property name="hostAddress" value="192.168.189.1"/>
+         <property name="sessionId" value="cb3ebaec57de8c6032b8c62d202aa64b"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Func_DeleteClass/Validate_ButtonCancel" classname="Test Cases/Func_DeleteClass/Validate_ButtonCancel" status="PASSED">
+         <system-out><![CDATA[2019-04-10 13:49:03 - [TEST_CASE][PASSED] - Test Cases/Func_DeleteClass/Validate_ButtonCancel: Test Cases/Func_DeleteClass/Validate_ButtonCancel
+
+2019-04-10 13:49:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-10 13:49:12 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-04-10 13:49:12 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-04-10 13:49:25 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-10 13:49:25 - [TEST_STEP][PASSED] - navigateToUrl("https://hoclieu.sachmem.vn/folder/0"): Navigate to 'https://hoclieu.sachmem.vn/folder/0' successfully
+
+2019-04-10 13:49:30 - [MESSAGE][PASSED] - Navigate to 'https://hoclieu.sachmem.vn/folder/0' successfully
+
+2019-04-10 13:49:30 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2019-04-10 13:49:31 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2019-04-10 13:49:31 - [TEST_STEP][PASSED] - click(findTestObject("Login/Page_Hc liu - Sch Mm/a_ng nhp")): Object: 'Object Repository/Login/Page_Hc liu - Sch Mm/a_ng nhp' is clicked on
+
+2019-04-10 13:49:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Hc liu - Sch Mm/a_ng nhp' is clicked on
+
+2019-04-10 13:49:40 - [TEST_STEP][PASSED] - setText(findTestObject("Login/Page_ng nhp  Sch Mm/input_a ch email_useremail"), "hwngvux98@gmail.com"): Text 'hwngvux98@gmail.com' is set on object 'Object Repository/Login/Page_ng nhp  Sch Mm/input_a ch email_useremail'
+
+2019-04-10 13:49:42 - [MESSAGE][PASSED] - Text 'hwngvux98@gmail.com' is set on object 'Object Repository/Login/Page_ng nhp  Sch Mm/input_a ch email_useremail'
+
+2019-04-10 13:49:42 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword"), "EjEDdN6o7pTQoul/MO4YbQ=="): Text ****** has been set on object 'Object Repository/Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword'
+
+2019-04-10 13:49:44 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword'
+
+2019-04-10 13:49:44 - [TEST_STEP][PASSED] - click(findTestObject("Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit")): Object: 'Object Repository/Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit' is clicked on
+
+2019-04-10 13:49:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit' is clicked on
+
+2019-04-10 13:49:48 - [TEST_STEP][PASSED] - click(findTestObject("Login/Page_Hc liu - Sch Mm/a_Lp hc ca ti")): Object: 'Object Repository/Login/Page_Hc liu - Sch Mm/a_Lp hc ca ti' is clicked on
+
+2019-04-10 13:49:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Hc liu - Sch Mm/a_Lp hc ca ti' is clicked on
+
+2019-04-10 13:49:50 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2019-04-10 13:49:53 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2019-04-10 13:49:53 - [TEST_STEP][PASSED] - click(findTestObject("DeleteClass/DeleteClass_DropDown")): Object: 'Object Repository/DeleteClass/DeleteClass_DropDown' is clicked on
+
+2019-04-10 13:49:54 - [MESSAGE][PASSED] - Object: 'Object Repository/DeleteClass/DeleteClass_DropDown' is clicked on
+
+2019-04-10 13:49:54 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2019-04-10 13:49:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-10 13:49:56 - [TEST_STEP][PASSED] - click(findTestObject("DeleteClass/DeleteClass_Menu")): Object: 'Object Repository/DeleteClass/DeleteClass_Menu' is clicked on
+
+2019-04-10 13:49:56 - [MESSAGE][PASSED] - Object: 'Object Repository/DeleteClass/DeleteClass_Menu' is clicked on
+
+2019-04-10 13:49:56 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2019-04-10 13:49:57 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2019-04-10 13:49:57 - [TEST_STEP][PASSED] - click(findTestObject("DeleteClass/DeleteClass_Cancel")): Object: 'Object Repository/DeleteClass/DeleteClass_Cancel' is clicked on
+
+2019-04-10 13:49:57 - [MESSAGE][PASSED] - Object: 'Object Repository/DeleteClass/DeleteClass_Cancel' is clicked on
+
+2019-04-10 13:49:57 - [TEST_STEP][PASSED] - waitForElementNotVisible(findTestObject("DeleteClass/Delete_Menu"), 3): Object 'Object Repository/DeleteClass/Delete_Menu' is visible after 3 second(s)
+
+2019-04-10 13:50:01 - [MESSAGE][WARNING] - Object 'Object Repository/DeleteClass/Delete_Menu' is visible after 3 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Func_DeleteClass/Validate_ButtonConfirm" classname="Test Cases/Func_DeleteClass/Validate_ButtonConfirm" status="PASSED">
+         <system-out><![CDATA[2019-04-10 13:50:01 - [TEST_CASE][PASSED] - Test Cases/Func_DeleteClass/Validate_ButtonConfirm: Test Cases/Func_DeleteClass/Validate_ButtonConfirm
+
+2019-04-10 13:50:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-10 13:50:01 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2019-04-10 13:50:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-04-10 13:50:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-10 13:50:05 - [TEST_STEP][PASSED] - navigateToUrl("https://hoclieu.sachmem.vn/folder/0"): Navigate to 'https://hoclieu.sachmem.vn/folder/0' successfully
+
+2019-04-10 13:50:08 - [MESSAGE][PASSED] - Navigate to 'https://hoclieu.sachmem.vn/folder/0' successfully
+
+2019-04-10 13:50:08 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2019-04-10 13:50:09 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2019-04-10 13:50:09 - [TEST_STEP][PASSED] - click(findTestObject("Login/Page_Hc liu - Sch Mm/a_ng nhp")): Object: 'Object Repository/Login/Page_Hc liu - Sch Mm/a_ng nhp' is clicked on
+
+2019-04-10 13:50:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Hc liu - Sch Mm/a_ng nhp' is clicked on
+
+2019-04-10 13:50:14 - [TEST_STEP][PASSED] - setText(findTestObject("Login/Page_ng nhp  Sch Mm/input_a ch email_useremail"), "hwngvux98@gmail.com"): Text 'hwngvux98@gmail.com' is set on object 'Object Repository/Login/Page_ng nhp  Sch Mm/input_a ch email_useremail'
+
+2019-04-10 13:50:15 - [MESSAGE][PASSED] - Text 'hwngvux98@gmail.com' is set on object 'Object Repository/Login/Page_ng nhp  Sch Mm/input_a ch email_useremail'
+
+2019-04-10 13:50:15 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword"), "EjEDdN6o7pTQoul/MO4YbQ=="): Text ****** has been set on object 'Object Repository/Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword'
+
+2019-04-10 13:50:16 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword'
+
+2019-04-10 13:50:16 - [TEST_STEP][PASSED] - click(findTestObject("Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit")): Object: 'Object Repository/Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit' is clicked on
+
+2019-04-10 13:50:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit' is clicked on
+
+2019-04-10 13:50:18 - [TEST_STEP][PASSED] - click(findTestObject("Login/Page_Hc liu - Sch Mm/a_Lp hc ca ti")): Object: 'Object Repository/Login/Page_Hc liu - Sch Mm/a_Lp hc ca ti' is clicked on
+
+2019-04-10 13:50:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Hc liu - Sch Mm/a_Lp hc ca ti' is clicked on
+
+2019-04-10 13:50:21 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2019-04-10 13:50:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2019-04-10 13:50:24 - [TEST_STEP][PASSED] - click(findTestObject("DeleteClass/DeleteClass_DropDown")): Object: 'Object Repository/DeleteClass/DeleteClass_DropDown' is clicked on
+
+2019-04-10 13:50:24 - [MESSAGE][PASSED] - Object: 'Object Repository/DeleteClass/DeleteClass_DropDown' is clicked on
+
+2019-04-10 13:50:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2019-04-10 13:50:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2019-04-10 13:50:26 - [TEST_STEP][PASSED] - click(findTestObject("DeleteClass/DeleteClass_Menu")): Object: 'Object Repository/DeleteClass/DeleteClass_Menu' is clicked on
+
+2019-04-10 13:50:27 - [MESSAGE][PASSED] - Object: 'Object Repository/DeleteClass/DeleteClass_Menu' is clicked on
+
+2019-04-10 13:50:27 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2019-04-10 13:50:28 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2019-04-10 13:50:28 - [TEST_STEP][PASSED] - click(findTestObject("DeleteClass/DeleteClass_Confirm")): Object: 'Object Repository/DeleteClass/DeleteClass_Confirm' is clicked on
+
+2019-04-10 13:50:28 - [MESSAGE][PASSED] - Object: 'Object Repository/DeleteClass/DeleteClass_Confirm' is clicked on
+
+2019-04-10 13:50:28 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("DeleteClass/Delete_Success"), 3): Object 'Object Repository/DeleteClass/Delete_Success' is visible
+
+2019-04-10 13:50:28 - [MESSAGE][PASSED] - Object 'Object Repository/DeleteClass/Delete_Success' is visible]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-04-10 13:49:02 - [TEST_SUITE][PASSED] - Func_DeleteClass: Test Cases/Func_DeleteClass/Validate_ButtonConfirm]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Func_EditClass,Chrome 73.0.3683.103,,2019-04-10 14:01:04,2019-04-10 14:01:45,41.218s,PASSED
+,,,,,,
+Test Cases/Func_EditClass/EditClass_Name,Chrome 73.0.3683.103,,2019-04-10 14:01:06,2019-04-10 14:01:44,37.837s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.103,,2019-04-10 14:01:09,2019-04-10 14:01:18,9.012s,PASSED
+"navigateToUrl(""https://hoclieu.sachmem.vn/folder/0"")",Chrome 73.0.3683.103,,2019-04-10 14:01:18,2019-04-10 14:01:21,3.116s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 14:01:21,2019-04-10 14:01:22,1.044s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_ng nhp""))",Chrome 73.0.3683.103,,2019-04-10 14:01:22,2019-04-10 14:01:27,4.664s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_a ch email_useremail""), ""hwngvux98@gmail.com"")",Chrome 73.0.3683.103,,2019-04-10 14:01:27,2019-04-10 14:01:29,1.830s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword""), ""EjEDdN6o7pTQoul/MO4YbQ=="")",Chrome 73.0.3683.103,,2019-04-10 14:01:29,2019-04-10 14:01:30,1.416s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit""))",Chrome 73.0.3683.103,,2019-04-10 14:01:30,2019-04-10 14:01:33,3.033s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_Lp hc ca ti""))",Chrome 73.0.3683.103,,2019-04-10 14:01:33,2019-04-10 14:01:35,1.777s,PASSED
+delay(3),Chrome 73.0.3683.103,,2019-04-10 14:01:35,2019-04-10 14:01:38,3.005s,PASSED
+"click(findTestObject(""EditClass/EditClass_DropDown""))",Chrome 73.0.3683.103,,2019-04-10 14:01:38,2019-04-10 14:01:38,0.190s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 14:01:38,2019-04-10 14:01:39,1.004s,PASSED
+"click(findTestObject(""EditClass/EditClass_Menu""))",Chrome 73.0.3683.103,,2019-04-10 14:01:39,2019-04-10 14:01:39,0.155s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 14:01:39,2019-04-10 14:01:40,1.004s,PASSED
+"setText(findTestObject(""EditClass/EditClass_NameInput""), ""Changed Name Again"")",Chrome 73.0.3683.103,,2019-04-10 14:01:40,2019-04-10 14:01:41,0.414s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 14:01:41,2019-04-10 14:01:42,1.004s,PASSED
+"setText(findTestObject(""EditClass/EditClass_DesInput""), ""!@#@$%^&*()_JAJS ASJd wq"")",Chrome 73.0.3683.103,,2019-04-10 14:01:42,2019-04-10 14:01:42,0.732s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 14:01:42,2019-04-10 14:01:43,1.011s,PASSED
+"click(findTestObject(""EditClass/EditClass_Confirm""))",Chrome 73.0.3683.103,,2019-04-10 14:01:43,2019-04-10 14:01:44,0.153s,PASSED
+"waitForElementVisible(findTestObject(""CreateClass/Error/Error_Duplicate""), 0)",Chrome 73.0.3683.103,,2019-04-10 14:01:44,2019-04-10 14:01:44,0.587s,PASSED

@@ -1,0 +1,120 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Func_CreateClass,Chrome 73.0.3683.103,,2019-04-10 13:49:03,2019-04-10 13:51:45,2m - 42.233s,PASSED
+,,,,,,
+Test Cases/Func_CreateClass/Name_Dupicate,Chrome 73.0.3683.103,,2019-04-10 13:49:06,2019-04-10 13:49:59,52.698s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.103,,2019-04-10 13:49:11,2019-04-10 13:49:26,15.104s,PASSED
+"navigateToUrl(""https://hoclieu.sachmem.vn/folder/0"")",Chrome 73.0.3683.103,,2019-04-10 13:49:26,2019-04-10 13:49:33,6.299s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:49:33,2019-04-10 13:49:34,1.062s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_ng nhp""))",Chrome 73.0.3683.103,,2019-04-10 13:49:34,2019-04-10 13:49:42,8.017s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_a ch email_useremail""), ""hwngvux98@gmail.com"")",Chrome 73.0.3683.103,,2019-04-10 13:49:42,2019-04-10 13:49:43,0.988s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword""), ""EjEDdN6o7pTQoul/MO4YbQ=="")",Chrome 73.0.3683.103,,2019-04-10 13:49:43,2019-04-10 13:49:44,1.035s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit""))",Chrome 73.0.3683.103,,2019-04-10 13:49:44,2019-04-10 13:49:48,3.941s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_Lp hc ca ti""))",Chrome 73.0.3683.103,,2019-04-10 13:49:48,2019-04-10 13:49:50,2.759s,PASSED
+delay(3),Chrome 73.0.3683.103,,2019-04-10 13:49:50,2019-04-10 13:49:53,3.005s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_Thm""))",Chrome 73.0.3683.103,,2019-04-10 13:49:53,2019-04-10 13:49:54,0.400s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:49:54,2019-04-10 13:49:55,1.003s,PASSED
+"setText(findTestObject(""Login/Page_Hc liu - Sch Mm/input_Tn_form-control ng-pristine ng-invalid ng-touched""), ""alo"")",Chrome 73.0.3683.103,,2019-04-10 13:49:55,2019-04-10 13:49:55,0.299s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/span_Chn khi lp_ng-arrow-wrapper""))",Chrome 73.0.3683.103,,2019-04-10 13:49:55,2019-04-10 13:49:55,0.176s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:49:55,2019-04-10 13:49:56,1.005s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/Lop2""))",Chrome 73.0.3683.103,,2019-04-10 13:49:56,2019-04-10 13:49:57,0.268s,PASSED
+"setText(findTestObject(""Login/Page_Hc liu - Sch Mm/textarea_M t_form-control ng-untouched ng-valid ng-dirty""), ""test"")",Chrome 73.0.3683.103,,2019-04-10 13:49:57,2019-04-10 13:49:57,0.274s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:49:57,2019-04-10 13:49:58,1.004s,PASSED
+"click(findTestObject(""CreateClass/CreateClass_Confirm""))",Chrome 73.0.3683.103,,2019-04-10 13:49:58,2019-04-10 13:49:58,0.193s,PASSED
+"waitForElementVisible(findTestObject(""CreateClass/Error/Error_Duplicate""), 0)",Chrome 73.0.3683.103,,2019-04-10 13:49:58,2019-04-10 13:49:59,0.655s,PASSED
+,,,,,,
+Test Cases/Func_CreateClass/Name_MaxCharTest,Chrome 73.0.3683.103,,2019-04-10 13:49:59,2019-04-10 13:50:30,31.749s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.103,,2019-04-10 13:49:59,2019-04-10 13:50:05,6.199s,PASSED
+"navigateToUrl(""https://hoclieu.sachmem.vn/folder/0"")",Chrome 73.0.3683.103,,2019-04-10 13:50:05,2019-04-10 13:50:09,3.399s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:50:09,2019-04-10 13:50:10,1.004s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_ng nhp""))",Chrome 73.0.3683.103,,2019-04-10 13:50:10,2019-04-10 13:50:14,4.405s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_a ch email_useremail""), ""hwngvux98@gmail.com"")",Chrome 73.0.3683.103,,2019-04-10 13:50:14,2019-04-10 13:50:15,1.048s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword""), ""EjEDdN6o7pTQoul/MO4YbQ=="")",Chrome 73.0.3683.103,,2019-04-10 13:50:15,2019-04-10 13:50:16,0.567s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit""))",Chrome 73.0.3683.103,,2019-04-10 13:50:16,2019-04-10 13:50:19,3.120s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_Lp hc ca ti""))",Chrome 73.0.3683.103,,2019-04-10 13:50:19,2019-04-10 13:50:21,2.172s,PASSED
+delay(3),Chrome 73.0.3683.103,,2019-04-10 13:50:21,2019-04-10 13:50:24,3.005s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_Thm""))",Chrome 73.0.3683.103,,2019-04-10 13:50:24,2019-04-10 13:50:25,0.449s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:50:25,2019-04-10 13:50:26,1.003s,PASSED
+"setText(findTestObject(""Login/Page_Hc liu - Sch Mm/input_Tn_form-control ng-pristine ng-invalid ng-touched""), ""12313213213213213213213132131321321321321"")",Chrome 73.0.3683.103,,2019-04-10 13:50:26,2019-04-10 13:50:27,1.206s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/span_Chn khi lp_ng-arrow-wrapper""))",Chrome 73.0.3683.103,,2019-04-10 13:50:27,2019-04-10 13:50:27,0.482s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:50:27,2019-04-10 13:50:28,1.002s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/Lop2""))",Chrome 73.0.3683.103,,2019-04-10 13:50:28,2019-04-10 13:50:28,0.136s,PASSED
+"setText(findTestObject(""Login/Page_Hc liu - Sch Mm/textarea_M t_form-control ng-untouched ng-valid ng-dirty""), ""test"")",Chrome 73.0.3683.103,,2019-04-10 13:50:28,2019-04-10 13:50:29,0.315s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:50:29,2019-04-10 13:50:30,1.004s,PASSED
+"click(findTestObject(""CreateClass/CreateClass_Confirm""))",Chrome 73.0.3683.103,,2019-04-10 13:50:30,2019-04-10 13:50:30,0.126s,PASSED
+"waitForElementVisible(findTestObject(""CreateClass/Error/Error_Duplicate""), 0)",Chrome 73.0.3683.103,,2019-04-10 13:50:30,2019-04-10 13:50:30,0.594s,PASSED
+,,,,,,
+Test Cases/Func_CreateClass/Name_NotAllowSpaceChar,Chrome 73.0.3683.103,,2019-04-10 13:50:30,2019-04-10 13:50:53,22.737s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.103,,2019-04-10 13:50:31,2019-04-10 13:50:35,4.527s,PASSED
+"navigateToUrl(""https://hoclieu.sachmem.vn/folder/0"")",Chrome 73.0.3683.103,,2019-04-10 13:50:35,2019-04-10 13:50:38,2.564s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:50:38,2019-04-10 13:50:39,1.002s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_ng nhp""))",Chrome 73.0.3683.103,,2019-04-10 13:50:39,2019-04-10 13:50:42,2.678s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_a ch email_useremail""), ""hwngvux98@gmail.com"")",Chrome 73.0.3683.103,,2019-04-10 13:50:42,2019-04-10 13:50:42,0.726s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword""), ""EjEDdN6o7pTQoul/MO4YbQ=="")",Chrome 73.0.3683.103,,2019-04-10 13:50:42,2019-04-10 13:50:43,0.580s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit""))",Chrome 73.0.3683.103,,2019-04-10 13:50:43,2019-04-10 13:50:45,1.846s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_Lp hc ca ti""))",Chrome 73.0.3683.103,,2019-04-10 13:50:45,2019-04-10 13:50:46,1.237s,PASSED
+delay(3),Chrome 73.0.3683.103,,2019-04-10 13:50:46,2019-04-10 13:50:49,3.003s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_Thm""))",Chrome 73.0.3683.103,,2019-04-10 13:50:49,2019-04-10 13:50:49,0.143s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:50:49,2019-04-10 13:50:50,1.002s,PASSED
+"setText(findTestObject(""Login/Page_Hc liu - Sch Mm/input_Tn_form-control ng-pristine ng-invalid ng-touched""), ""       "")",Chrome 73.0.3683.103,,2019-04-10 13:50:50,2019-04-10 13:50:51,0.271s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/span_Chn khi lp_ng-arrow-wrapper""))",Chrome 73.0.3683.103,,2019-04-10 13:50:51,2019-04-10 13:50:51,0.155s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:50:51,2019-04-10 13:50:52,1.003s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/Lop2""))",Chrome 73.0.3683.103,,2019-04-10 13:50:52,2019-04-10 13:50:52,0.113s,PASSED
+"setText(findTestObject(""Login/Page_Hc liu - Sch Mm/textarea_M t_form-control ng-untouched ng-valid ng-dirty""), ""test"")",Chrome 73.0.3683.103,,2019-04-10 13:50:52,2019-04-10 13:50:52,0.166s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:50:52,2019-04-10 13:50:53,1.002s,PASSED
+"click(findTestObject(""CreateClass/CreateClass_Confirm""))",Chrome 73.0.3683.103,,2019-04-10 13:50:53,2019-04-10 13:50:53,0.138s,PASSED
+"waitForElementVisible(findTestObject(""CreateClass/Error/Error_Duplicate""), 0)",Chrome 73.0.3683.103,,2019-04-10 13:50:53,2019-04-10 13:50:53,0.061s,PASSED
+,,,,,,
+Test Cases/Func_CreateClass/Name_NotAllowSpecChars,Chrome 73.0.3683.103,,2019-04-10 13:50:53,2019-04-10 13:51:11,17.756s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.103,,2019-04-10 13:50:53,2019-04-10 13:50:56,2.808s,PASSED
+"navigateToUrl(""https://hoclieu.sachmem.vn/folder/0"")",Chrome 73.0.3683.103,,2019-04-10 13:50:56,2019-04-10 13:50:58,1.818s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:50:58,2019-04-10 13:50:59,1.004s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_ng nhp""))",Chrome 73.0.3683.103,,2019-04-10 13:50:59,2019-04-10 13:51:01,2.010s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_a ch email_useremail""), ""hwngvux98@gmail.com"")",Chrome 73.0.3683.103,,2019-04-10 13:51:01,2019-04-10 13:51:01,0.359s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword""), ""EjEDdN6o7pTQoul/MO4YbQ=="")",Chrome 73.0.3683.103,,2019-04-10 13:51:01,2019-04-10 13:51:02,0.192s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit""))",Chrome 73.0.3683.103,,2019-04-10 13:51:02,2019-04-10 13:51:03,1.231s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_Lp hc ca ti""))",Chrome 73.0.3683.103,,2019-04-10 13:51:03,2019-04-10 13:51:04,0.886s,PASSED
+delay(3),Chrome 73.0.3683.103,,2019-04-10 13:51:04,2019-04-10 13:51:07,3.003s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_Thm""))",Chrome 73.0.3683.103,,2019-04-10 13:51:07,2019-04-10 13:51:07,0.204s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:51:07,2019-04-10 13:51:08,1.002s,PASSED
+"setText(findTestObject(""Login/Page_Hc liu - Sch Mm/input_Tn_form-control ng-pristine ng-invalid ng-touched""), ""!@#$%^&*()_+Test  asdz"")",Chrome 73.0.3683.103,,2019-04-10 13:51:08,2019-04-10 13:51:08,0.372s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/span_Chn khi lp_ng-arrow-wrapper""))",Chrome 73.0.3683.103,,2019-04-10 13:51:08,2019-04-10 13:51:08,0.129s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:51:08,2019-04-10 13:51:10,1.003s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/Lop2""))",Chrome 73.0.3683.103,,2019-04-10 13:51:10,2019-04-10 13:51:10,0.098s,PASSED
+"setText(findTestObject(""Login/Page_Hc liu - Sch Mm/textarea_M t_form-control ng-untouched ng-valid ng-dirty""), ""test"")",Chrome 73.0.3683.103,,2019-04-10 13:51:10,2019-04-10 13:51:10,0.154s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:51:10,2019-04-10 13:51:11,1.002s,PASSED
+"click(findTestObject(""CreateClass/CreateClass_Confirm""))",Chrome 73.0.3683.103,,2019-04-10 13:51:11,2019-04-10 13:51:11,0.110s,PASSED
+"waitForElementVisible(findTestObject(""CreateClass/Error/Error_SpecCharsNotAllow""), 0)",Chrome 73.0.3683.103,,2019-04-10 13:51:11,2019-04-10 13:51:11,0.054s,PASSED
+,,,,,,
+Test Cases/Func_CreateClass/Validate_Button/Button_Cancel,Chrome 73.0.3683.103,,2019-04-10 13:51:11,2019-04-10 13:51:29,17.613s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.103,,2019-04-10 13:51:11,2019-04-10 13:51:14,2.902s,PASSED
+"navigateToUrl(""https://hoclieu.sachmem.vn/folder/0"")",Chrome 73.0.3683.103,,2019-04-10 13:51:14,2019-04-10 13:51:16,1.758s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:51:16,2019-04-10 13:51:17,1.003s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_ng nhp""))",Chrome 73.0.3683.103,,2019-04-10 13:51:17,2019-04-10 13:51:19,1.680s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_a ch email_useremail""), ""hwngvux98@gmail.com"")",Chrome 73.0.3683.103,,2019-04-10 13:51:19,2019-04-10 13:51:19,0.364s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword""), ""EjEDdN6o7pTQoul/MO4YbQ=="")",Chrome 73.0.3683.103,,2019-04-10 13:51:19,2019-04-10 13:51:19,0.216s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit""))",Chrome 73.0.3683.103,,2019-04-10 13:51:19,2019-04-10 13:51:20,1.242s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_Lp hc ca ti""))",Chrome 73.0.3683.103,,2019-04-10 13:51:20,2019-04-10 13:51:21,0.816s,PASSED
+delay(3),Chrome 73.0.3683.103,,2019-04-10 13:51:21,2019-04-10 13:51:24,3.002s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_Thm""))",Chrome 73.0.3683.103,,2019-04-10 13:51:24,2019-04-10 13:51:24,0.163s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:51:24,2019-04-10 13:51:25,1.006s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/span_Chn khi lp_ng-arrow-wrapper""))",Chrome 73.0.3683.103,,2019-04-10 13:51:25,2019-04-10 13:51:26,0.262s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:51:26,2019-04-10 13:51:27,1.002s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/Lop2""))",Chrome 73.0.3683.103,,2019-04-10 13:51:27,2019-04-10 13:51:27,0.165s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:51:27,2019-04-10 13:51:28,1.003s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/button_Hy""))",Chrome 73.0.3683.103,,2019-04-10 13:51:28,2019-04-10 13:51:28,0.117s,PASSED
+"waitForElementNotVisible(findTestObject(""CreateClass/CreateClassMenu""), 3)",Chrome 73.0.3683.103,,2019-04-10 13:51:28,2019-04-10 13:51:29,0.627s,PASSED
+,,,,,,
+Test Cases/Func_CreateClass/Validate_Button/Button_X,Chrome 73.0.3683.103,,2019-04-10 13:51:29,2019-04-10 13:51:44,15.942s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.103,,2019-04-10 13:51:29,2019-04-10 13:51:32,3.077s,PASSED
+"navigateToUrl(""https://hoclieu.sachmem.vn/folder/0"")",Chrome 73.0.3683.103,,2019-04-10 13:51:32,2019-04-10 13:51:34,1.686s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:51:34,2019-04-10 13:51:35,1.002s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_ng nhp""))",Chrome 73.0.3683.103,,2019-04-10 13:51:35,2019-04-10 13:51:37,2.282s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_a ch email_useremail""), ""hwngvux98@gmail.com"")",Chrome 73.0.3683.103,,2019-04-10 13:51:37,2019-04-10 13:51:37,0.274s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword""), ""EjEDdN6o7pTQoul/MO4YbQ=="")",Chrome 73.0.3683.103,,2019-04-10 13:51:37,2019-04-10 13:51:37,0.192s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit""))",Chrome 73.0.3683.103,,2019-04-10 13:51:37,2019-04-10 13:51:39,1.306s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_Lp hc ca ti""))",Chrome 73.0.3683.103,,2019-04-10 13:51:39,2019-04-10 13:51:40,0.911s,PASSED
+delay(3),Chrome 73.0.3683.103,,2019-04-10 13:51:40,2019-04-10 13:51:43,3.004s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_Thm""))",Chrome 73.0.3683.103,,2019-04-10 13:51:43,2019-04-10 13:51:43,0.272s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:51:43,2019-04-10 13:51:44,1.002s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/button_X""))",Chrome 73.0.3683.103,,2019-04-10 13:51:44,2019-04-10 13:51:44,0.101s,PASSED
+"waitForElementNotVisible(findTestObject(""CreateClass/CreateClassMenu""), 3)",Chrome 73.0.3683.103,,2019-04-10 13:51:44,2019-04-10 13:51:44,0.574s,PASSED

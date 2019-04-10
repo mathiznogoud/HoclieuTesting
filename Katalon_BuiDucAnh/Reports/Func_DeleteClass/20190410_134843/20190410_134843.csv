@@ -1,0 +1,36 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Func_DeleteClass,Chrome 73.0.3683.103,,2019-04-10 13:49:02,2019-04-10 13:50:30,1m - 27.758s,PASSED
+,,,,,,
+Test Cases/Func_DeleteClass/Validate_ButtonCancel,Chrome 73.0.3683.103,,2019-04-10 13:49:03,2019-04-10 13:50:01,57.608s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.103,,2019-04-10 13:49:08,2019-04-10 13:49:25,17.122s,PASSED
+"navigateToUrl(""https://hoclieu.sachmem.vn/folder/0"")",Chrome 73.0.3683.103,,2019-04-10 13:49:25,2019-04-10 13:49:30,5.459s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:49:30,2019-04-10 13:49:31,1.152s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_ng nhp""))",Chrome 73.0.3683.103,,2019-04-10 13:49:31,2019-04-10 13:49:40,8.995s,PASSED
+"setText(findTestObject(""Login/Page_ng nhp  Sch Mm/input_a ch email_useremail""), ""hwngvux98@gmail.com"")",Chrome 73.0.3683.103,,2019-04-10 13:49:40,2019-04-10 13:49:42,2.077s,PASSED
+"setEncryptedText(findTestObject(""Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword""), ""EjEDdN6o7pTQoul/MO4YbQ=="")",Chrome 73.0.3683.103,,2019-04-10 13:49:42,2019-04-10 13:49:44,1.315s,PASSED
+"click(findTestObject(""Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit""))",Chrome 73.0.3683.103,,2019-04-10 13:49:44,2019-04-10 13:49:48,4.058s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_Lp hc ca ti""))",Chrome 73.0.3683.103,,2019-04-10 13:49:48,2019-04-10 13:49:50,2.667s,PASSED
+delay(3),Chrome 73.0.3683.103,,2019-04-10 13:49:50,2019-04-10 13:49:53,3.063s,PASSED
+"click(findTestObject(""DeleteClass/DeleteClass_DropDown""))",Chrome 73.0.3683.103,,2019-04-10 13:49:53,2019-04-10 13:49:54,0.385s,PASSED
+delay(2),Chrome 73.0.3683.103,,2019-04-10 13:49:54,2019-04-10 13:49:56,2.005s,PASSED
+"click(findTestObject(""DeleteClass/DeleteClass_Menu""))",Chrome 73.0.3683.103,,2019-04-10 13:49:56,2019-04-10 13:49:56,0.206s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:49:56,2019-04-10 13:49:57,1.005s,PASSED
+"click(findTestObject(""DeleteClass/DeleteClass_Cancel""))",Chrome 73.0.3683.103,,2019-04-10 13:49:57,2019-04-10 13:49:57,0.172s,PASSED
+"waitForElementNotVisible(findTestObject(""DeleteClass/Delete_Menu""), 3)",Chrome 73.0.3683.103,,2019-04-10 13:49:57,2019-04-10 13:50:01,3.496s,PASSED
+,,,,,,
+Test Cases/Func_DeleteClass/Validate_ButtonConfirm,Chrome 73.0.3683.103,,2019-04-10 13:50:01,2019-04-10 13:50:29,27.731s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.103,,2019-04-10 13:50:01,2019-04-10 13:50:05,3.861s,PASSED
+"navigateToUrl(""https://hoclieu.sachmem.vn/folder/0"")",Chrome 73.0.3683.103,,2019-04-10 13:50:05,2019-04-10 13:50:08,3.068s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:50:08,2019-04-10 13:50:09,1.004s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_ng nhp""))",Chrome 73.0.3683.103,,2019-04-10 13:50:09,2019-04-10 13:50:14,4.201s,PASSED
+"setText(findTestObject(""Login/Page_ng nhp  Sch Mm/input_a ch email_useremail""), ""hwngvux98@gmail.com"")",Chrome 73.0.3683.103,,2019-04-10 13:50:14,2019-04-10 13:50:15,1.490s,PASSED
+"setEncryptedText(findTestObject(""Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword""), ""EjEDdN6o7pTQoul/MO4YbQ=="")",Chrome 73.0.3683.103,,2019-04-10 13:50:15,2019-04-10 13:50:16,0.534s,PASSED
+"click(findTestObject(""Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit""))",Chrome 73.0.3683.103,,2019-04-10 13:50:16,2019-04-10 13:50:18,2.717s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_Lp hc ca ti""))",Chrome 73.0.3683.103,,2019-04-10 13:50:18,2019-04-10 13:50:21,2.622s,PASSED
+delay(3),Chrome 73.0.3683.103,,2019-04-10 13:50:21,2019-04-10 13:50:24,3.003s,PASSED
+"click(findTestObject(""DeleteClass/DeleteClass_DropDown""))",Chrome 73.0.3683.103,,2019-04-10 13:50:24,2019-04-10 13:50:24,0.409s,PASSED
+delay(2),Chrome 73.0.3683.103,,2019-04-10 13:50:24,2019-04-10 13:50:26,2.004s,PASSED
+"click(findTestObject(""DeleteClass/DeleteClass_Menu""))",Chrome 73.0.3683.103,,2019-04-10 13:50:26,2019-04-10 13:50:27,0.434s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:50:27,2019-04-10 13:50:28,1.005s,PASSED
+"click(findTestObject(""DeleteClass/DeleteClass_Confirm""))",Chrome 73.0.3683.103,,2019-04-10 13:50:28,2019-04-10 13:50:28,0.109s,PASSED
+"waitForElementVisible(findTestObject(""DeleteClass/Delete_Success""), 3)",Chrome 73.0.3683.103,,2019-04-10 13:50:28,2019-04-10 13:50:28,0.640s,PASSED

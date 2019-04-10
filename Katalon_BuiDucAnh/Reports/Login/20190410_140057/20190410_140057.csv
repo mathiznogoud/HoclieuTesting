@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Login,Chrome 73.0.3683.103,,2019-04-10 14:01:07,2019-04-10 14:01:36,28.835s,PASSED
+,,,,,,
+Test Cases/Login/LoginAuth,Chrome 73.0.3683.103,,2019-04-10 14:01:10,2019-04-10 14:01:32,21.567s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.103,,2019-04-10 14:01:12,2019-04-10 14:01:19,7.402s,PASSED
+"navigateToUrl(""https://hoclieu.sachmem.vn/folder/0"")",Chrome 73.0.3683.103,,2019-04-10 14:01:19,2019-04-10 14:01:22,3.467s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_ng nhp""))",Chrome 73.0.3683.103,,2019-04-10 14:01:22,2019-04-10 14:01:27,4.282s,PASSED
+"setText(findTestObject(""Login/Page_ng nhp  Sch Mm/input_a ch email_useremail""), ""hwngvux98@gmail.com"")",Chrome 73.0.3683.103,,2019-04-10 14:01:27,2019-04-10 14:01:28,1.514s,PASSED
+"setEncryptedText(findTestObject(""Login/Page_ng nhp  Sch Mm/input_Mt khu_userpassword""), ""EjEDdN6o7pTQoul/MO4YbQ=="")",Chrome 73.0.3683.103,,2019-04-10 14:01:28,2019-04-10 14:01:29,0.816s,PASSED
+"click(findTestObject(""Login/Page_ng nhp  Sch Mm/input_Qun mt khu_commit""))",Chrome 73.0.3683.103,,2019-04-10 14:01:29,2019-04-10 14:01:32,2.784s,PASSED

@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Func_EditClass,Chrome 73.0.3683.103,,2019-04-10 13:49:03,2019-04-10 13:49:53,49.991s,FAILED
+,,,,,,
+Test Cases/Func_EditClass/EditClass_Name,Chrome 73.0.3683.103,,2019-04-10 13:49:06,2019-04-10 13:49:34,28.038s,FAILED
+"openBrowser("""")",Chrome 73.0.3683.103,,2019-04-10 13:49:09,2019-04-10 13:49:25,16.345s,PASSED
+"navigateToUrl(""https://hoclieu.sachmem.vn/folder/0"")",Chrome 73.0.3683.103,,2019-04-10 13:49:25,2019-04-10 13:49:31,5.528s,PASSED
+delay(1),Chrome 73.0.3683.103,,2019-04-10 13:49:31,2019-04-10 13:49:32,1.108s,PASSED
+"click(findTestObject(""Login/Page_Hc liu - Sch Mm/a_ng nhp_1""))",Chrome 73.0.3683.103,,2019-04-10 13:49:32,2019-04-10 13:49:34,1.780s,FAILED

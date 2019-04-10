@@ -19,7 +19,7 @@ WebUI.navigateToUrl('https://hoclieu.sachmem.vn/folder/0')
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Login/Page_Hc liu - Sch Mm/a_ng nhp_1'))
+WebUI.click(findTestObject('Login/Page_Hc liu - Sch Mm/a_ng nhp'))
 
 WebUI.setText(findTestObject('Object Repository/Login/Page_ng nhp  Sch Mm/input_a ch email_useremail'), 'hwngvux98@gmail.com')
 
@@ -33,19 +33,17 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('EditClass/EditClass_DropDown'))
 
-WebUI.delay(2)
+WebUI.delay(1)
 
 WebUI.click(findTestObject('EditClass/EditClass_Menu'))
 
-WebUI.delay(2)
+WebUI.delay(1)
 
-WebUI.setText(findTestObject('EditClass/Page_Hc liu - Sch Mm/input_Tn_form-control ng-untouched ng-pristine ng-valid'), 
-    'Changed Name Again')
+WebUI.setText(findTestObject('EditClass/EditClass_NameInput'), 'Changed Name Again')
 
 WebUI.delay(1)
 
-WebUI.setText(findTestObject('EditClass/Page_Hc liu - Sch Mm/textarea_M t_form-control ng-untouched ng-pristine ng-valid'), 
-    '!@#@$%^&*()_JAJS ASJd wq')
+WebUI.setText(findTestObject('EditClass/EditClass_DesInput'), '!@#@$%^&*()_JAJS ASJd wq')
 
 WebUI.delay(1)
 
